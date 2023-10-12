@@ -1,6 +1,6 @@
 #!/bin/bash
 # Kayhan KAYNAR
-# 2023.10.12
+
 is_alive_ping()
 {
   ping -c 1 $1 > /dev/null
