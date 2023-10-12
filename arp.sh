@@ -1,6 +1,6 @@
 #!/bin/bash
 # Kayhan KAYNAR
-# 2023
+# 2023.
 
 is_alive_ping()
 {
